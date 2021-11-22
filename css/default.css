@@ -114,7 +114,7 @@
 }
 
 img {
-    width: 100px;
+    width: auto;
     height: auto;
     position: absolute;
     opacity: 0;
